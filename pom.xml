@@ -34,6 +34,7 @@
 				<uri>https://anypoint.mulesoft.com</uri>
 				<server>${server}</server>
 				<muleVersion>${app.runtime}</muleVersion>
+				<applicationName>${app.name}</applicationName>
 				<workers>${workers}</workers>
 				<workerType>${workerType}</workerType>
 				<environment>${environment}</environment>
